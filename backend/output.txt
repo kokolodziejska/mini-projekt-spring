@@ -1,0 +1,2 @@
+Przykład typu 3 – zapis do pliku
+"Dawno dawno temu"
